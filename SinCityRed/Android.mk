@@ -1,10 +1,10 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := WitchingHourTheme
+LOCAL_RRO_THEME := SinCityRedTheme
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := WitchingHourTheme
+LOCAL_PACKAGE_NAME := SinCityRedTheme
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 LOCAL_IS_RUNTIME_RESOURCE_OVERLAY := true
