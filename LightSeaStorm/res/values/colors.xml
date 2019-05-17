@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_light">#ff18cedf</color>
+    <color name="accent_material_dark">#ff18cedf</color>
+    <color name="gradient_end_light">#ff5b247a</color>
+    <color name="gradient_end_dark">#ff5b247a</color>
+</resources>
